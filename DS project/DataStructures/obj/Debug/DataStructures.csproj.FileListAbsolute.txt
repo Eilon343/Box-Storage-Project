@@ -1,0 +1,12 @@
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\eilon\OneDrive\שולחן העבודה\פרויקטים\DS project\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\eilon\OneDrive\שולחן העבודה\פרויקטים\DS project\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\eilon\OneDrive\שולחן העבודה\פרויקטים\DS project\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\Users\eilon\OneDrive\שולחן העבודה\פרויקטים\DS project\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\eilon\OneDrive\שולחן העבודה\פרויקטים\DS project\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\eilon\OneDrive\שולחן העבודה\פרויקטים\DS project\DataStructures\obj\Debug\DataStructures.pdb

@@ -1,0 +1,15 @@
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\DS project.exe.config
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\DS project.exe
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\DS project.pdb
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\obj\Debug\DS project.csproj.AssemblyReference.cache
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\obj\Debug\DS project.csproj.SuggestedBindingRedirects.cache
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\obj\Debug\DS project.csproj.CoreCompileInputs.cache
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\obj\Debug\DS project.exe
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\obj\Debug\DS project.pdb
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\BoxModel.dll
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\DataStructures.dll
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\BoxModel.pdb
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\DataStructures.pdb
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\obj\Debug\DS project.csproj.CopyComplete
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\BoxDal.dll
+C:\Users\eilon\OneDrive\שולחן העבודה\תרגילים\DS project\DS project\bin\Debug\BoxDal.pdb
